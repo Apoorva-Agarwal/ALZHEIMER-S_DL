@@ -103,5 +103,5 @@ Continuous refinement and validation of such models are crucial for their eventu
 This project highlights the importance of leveraging machine learning and deep neural networks in medical research to address complex healthcare challenges.
 
 ## Contributors
-- [Apporva Agarwal](https://github.com/Apoorva-Agarwal): Project Lead
+- [Apoorva Agarwal](https://github.com/Apoorva-Agarwal): Project Lead
 
